@@ -1,7 +1,4 @@
-# tindogStart
 
-TinDog Website
-TinDog Logo
 
 Welcome to TinDog, a fun and playful website for dogs and their owners. TinDog is a mock dating platform for dogs, where they can find their perfect match and set up playdates. This project is a demonstration of a responsive website built using HTML, CSS, and Bootstrap.
 
