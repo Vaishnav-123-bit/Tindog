@@ -2,6 +2,8 @@
 
 
 Attractive and responsive user interface
+
+
 Swipe left or right to like or dislike a dog
 Interactive buttons and animations
 Information about featured dogs and testimonials
