@@ -1,6 +1,4 @@
 
-
-
 Attractive and responsive user interface
 
 
